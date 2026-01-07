@@ -2,7 +2,7 @@ import { Layout, ShoppingCart, Bot, FileText, CreditCard, Clock, CheckCircle } f
 import { ModuleItem, TimelinePhase, TermItem } from './types';
 
 export const PROPOSAL_INFO = {
-  client: "PIRINOPOLIS.COM",
+  client: "PIRENOPOLIS.COM",
   project: "Novo Portal Institucional + E-commerce + IA",
   date: "22/12/2025",
   version: "1.0",
