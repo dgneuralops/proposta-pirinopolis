@@ -38,9 +38,8 @@ export const MODULES: ModuleItem[] = [
     features: [
       'Estrutura de planos (Mensal/Anual, Níveis)',
       'Checkout transparente (Mercado Pago, Stripe, etc.)',
-      'Área do assinante (Login, Status, Gestão)',
       'Regras de acesso a conteúdo exclusivo',
-      'Páginas de Planos, Checkout e Minha Conta',
+      'Páginas de Planos e Checkout',
       'Testes de transação e renovação'
     ]
   },
